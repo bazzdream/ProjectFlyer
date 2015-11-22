@@ -8330,3 +8330,15 @@ button.close {
     display: none !important;
   }
 }
+
+body {
+  padding-top: 70px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.gallery_image {
+  margin-bottom: 2em;
+}
